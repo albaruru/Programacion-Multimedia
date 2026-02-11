@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Confirmar compra -->
+    <item
+        android:id="@+id/item_confirmar"
+        android:title="Confirmar compra"
+        android:icon="@drawable/ic_confirmar"
+        app:showAsAction="always"/>
+
+    <!-- Vaciar carrito -->
+    <item
+        android:id="@+id/item_vaciar"
+        android:title="Vaciar carrito"
+        android:icon="@drawable/ic_vaciar"
+        app:showAsAction="always"/>
+
+</menu>
